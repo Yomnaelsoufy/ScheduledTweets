@@ -1,4 +1,4 @@
 class AboutController < ActionController::Base
-    def index:
+    def index
     end
 end
